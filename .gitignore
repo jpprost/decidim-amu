@@ -6,6 +6,7 @@
 
 # JPP: Ignore personal security settings
 /config/application.yml
+/Gemfile.lock
 
 # Ignore bundler config.
 /.bundle
